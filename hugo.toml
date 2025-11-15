@@ -1,0 +1,8 @@
+baseURL = 'https://RPI-Router-Instructions.github.io/'
+languageCode = 'en-us'
+title = 'RPI Router Instructions'
+theme = 'hugo-book'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
